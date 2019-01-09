@@ -6,4 +6,5 @@
 ## Semántica
 * https://www.arkaitzgarro.com/html5/capitulo-2.html
 * https://www.w3schools.com/html/html5_semantic_elements.asp
+* https://www.w3schools.com/html/html_examples.asp
 
