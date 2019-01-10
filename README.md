@@ -13,3 +13,6 @@
 
 * https://www.w3schools.com/css/tryit.asp?filename=trycss_website_layout_blog
 
+### CSS
+* https://www.paradigmadigital.com/wp-content/uploads/2018/12/flexboxCheatSheet-Online.pdf
+
