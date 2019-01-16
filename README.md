@@ -16,3 +16,7 @@
 ### CSS
 * https://www.paradigmadigital.com/wp-content/uploads/2018/12/flexboxCheatSheet-Online.pdf
 
+## VIDEO - CONVERSIONES DISTINTOS FORMATOS
+* https://www.online-convert.com/es/resultado/f7e8e960-f247-4311-b6f9-d2f8f69266f3
+
+
